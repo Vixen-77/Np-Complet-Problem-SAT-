@@ -1,0 +1,30 @@
+# Fichiers exécutables Windows
+*.exe
+*.out
+
+# Fichiers intermédiaires de compilation
+*.o
+*.obj
+*.ilk
+*.pdb
+
+# Fichiers de débogage
+*.debug
+*.pdb
+
+# Dossiers de build communs
+build/
+Debug/
+Release/
+x64/
+x86/
+*.vcxproj.user
+
+# Fichiers spécifiques aux IDE
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+CMakeCache.txt
+CMakeFiles/
