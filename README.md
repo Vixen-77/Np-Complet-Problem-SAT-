@@ -6,25 +6,44 @@ Il s’inscrit dans un cadre académique (algorithmique / complexité) et s’ap
 
 ---
 
-## 📁 Structure générale du projet
+##  Structure générale du projet
 
-.
-├── Benjing/ # Dataset CNF fourni par le professeur
-├── Code/ # Implémentations C++ et Python
-├── CSV/ # Résultats expérimentaux (statistiques)
-├── Python_plot/ # Graphiques générés automatiquement
-├── Reductions/ # Résultats de réduction SAT → 3-SAT
-├── Res/ # Instances CNF + solutions
-├── ResSol/ # Résultats détaillés des solveurs
-├── terminalOUTPUT_CPP/ # Sorties terminal des programmes C++
-├── UNSAT/ # Instances reconnues comme UNSAT
-├── README.md
-└── .gitignore
+mindmap
+  root((Projet SAT / 3-SAT))
+    Benjing
+      :::folder
+      Dataset CNF fourni par le professeur
+    Code
+      :::folder
+      Implémentations C++ et Python
+    CSV
+      :::folder
+      Résultats expérimentaux (statistiques)
+    Python_plot
+      :::folder
+      Graphiques générés automatiquement
+    Reductions
+      :::folder
+      Résultats de réduction SAT → 3-SAT
+    Res
+      :::folder
+      Instances CNF + solutions
+    ResSol
+      :::folder
+      Résultats détaillés des solveurs
+    terminalOUTPUT_CPP
+      :::folder
+      Sorties terminal des programmes C++
+    UNSAT
+      :::folder
+      Instances reconnues comme UNSAT
+    README.md
+    .gitignore
 
 
 ---
 
-## 📂 Benjing/
+## Benjing/
 Contient le **dataset d’instances SAT au format `.cnf`**, fourni par le professeur via un lien dans le PDF du cours.  
 Ces instances servent de base pour :
 - la résolution SAT
@@ -33,7 +52,7 @@ Ces instances servent de base pour :
 
 ---
 
-## 📂 Code/
+##  Code/
 Ce dossier contient **3 codes C++** et **3 codes Python**.
 
 ### 🔹 C++ (résolution et réduction)
@@ -45,7 +64,7 @@ Les programmes C++ sont utilisés pour leur **performance** et implémentent des
   - une approche **naïve (brute force)**
   - l’heuristique **MOMS**
   - l’algorithme **CDCL (Conflict-Driven Clause Learning)**  
-  👉 CDCL est l’algorithme le plus performant et constitue le point central de l’analyse.
+   CDCL est l’algorithme le plus performant et constitue le point central de l’analyse.
 
   Le solveur est testé sur :
   - 2 instances issues du dataset du professeur
@@ -88,7 +107,7 @@ Les programmes C++ sont utilisés pour leur **performance** et implémentent des
 
 ---
 
-## 📂 CSV/
+##  CSV/
 Contient les résultats expérimentaux sous forme tabulaire.
 
 - **`reduction_stats.csv`**  
@@ -99,19 +118,20 @@ Contient les résultats expérimentaux sous forme tabulaire.
 
 ---
 
-## 📂 Python_plot/
+##  Python_plot/
 Dossier de sortie automatique des graphiques générés par les scripts Python.
 
-Exemples :
+
 - `growth_variables_sat_3sat.png`
 - `growth_clauses_sat_3sat.png`
 - `sat_solver_analysis.png`
 
-Ces figures sont directement exploitables dans un rapport ou une soutenance.
+graphique expliqués de manière détaillé dans le rapport 
+
 
 ---
 
-## 📂 Res/
+##  Res/
 Fichiers importants liés aux instances et solutions.
 
 - **`.cnf`**  
@@ -122,9 +142,9 @@ Fichiers importants liés aux instances et solutions.
 
 ---
 
-## ⚠️ NOTE IMPORTANTE
+##  NOTE IMPORTANTE
 Si le solveur C++ conclut qu’une instance est **UNSAT**,  
-👉 **aucun fichier `.cnf.sol` n’est généré**.
+ **aucun fichier `.cnf.sol` n’est généré**.
 
 Dans ce cas, seules les informations suivantes sont produites :
 - temps d’exécution
@@ -132,7 +152,7 @@ Dans ce cas, seules les informations suivantes sont produites :
 
 ---
 
-## 🎯 Objectifs du projet
+## Objectifs du projet
 
 - Implémenter et comparer différentes stratégies de résolution SAT
 - Mettre en évidence l’efficacité de CDCL
@@ -141,5 +161,5 @@ Dans ce cas, seules les informations suivantes sont produites :
 
 ---
 
-## 🧠 Remarque finale
+##  Remarque finale
 Ce projet met l’accent sur la **rigueur algorithmique**, la **reproductibilité expérimentale** et l’**analyse de complexité**, conformément aux exigences académiques.
