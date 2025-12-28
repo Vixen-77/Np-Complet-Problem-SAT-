@@ -1,0 +1,67 @@
+======================================================================
+V├ëRIFICATEUR DE SOLUTIONS SAT - Format DIMACS
+======================================================================
+
+Mode batch - Dossier: ../Res/
+Recherche de fichiers .cnf avec solutions .sol...
+Trouv├® 24 fichiers .cnf
+======================================================================
+
+[1/24] 2bitcomp_5.cnf ÔåÆ Ô£ô SAT (0.61 ms) | 125 vars, 310 clauses
+
+[2/24] 2bitmax_6.cnf ÔåÆ Ô£ô SAT (0.62 ms) | 252 vars, 766 clauses
+
+[3/24] generated_sat_006.cnf ÔåÆ Ô£ô SAT (0.26 ms) | 38 vars, 161 clauses
+
+[4/24] generated_sat_009.cnf ÔåÆ Ô£ô SAT (0.37 ms) | 58 vars, 247 clauses
+
+[5/24] generated_sat_010.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+[5/24] generated_sat_012.cnf ÔåÆ Ô£ô SAT (0.41 ms) | 78 vars, 332 clauses
+
+[6/24] generated_sat_013.cnf ÔåÆ Ô£ô SAT (0.39 ms) | 85 vars, 362 clauses
+
+[7/24] generated_sat_014.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+[7/24] generated_sat_015.cnf ÔåÆ Ô£ô SAT (0.45 ms) | 99 vars, 421 clauses
+
+[8/24] generated_sat_016.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+[8/24] generated_sat_017.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+[8/24] generated_sat_018.cnf ÔåÆ Ô£ô SAT (0.51 ms) | 119 vars, 506 clauses
+
+[9/24] generated_sat_019.cnf ÔåÆ Ô£ô SAT (0.54 ms) | 126 vars, 536 clauses
+
+[10/24] generated_sat_020.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+[10/24] generated_sat_021.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+[10/24] generated_sat_022.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+[10/24] generated_sat_023.cnf ÔåÆ Ô£ô SAT (0.80 ms) | 152 vars, 647 clauses
+
+[11/24] generated_sat_024.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+[11/24] generated_sat_025.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+[11/24] generated_sat_026.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+[11/24] generated_sat_027.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+[11/24] generated_sat_028.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+[11/24] generated_sat_029.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+[11/24] generated_sat_030.cnf ÔåÆ ÔÜá Pas de solution (.sol)
+
+======================================================================
+R├ëSUM├ë FINAL
+======================================================================
+Fichiers v├®rifi├®s: 10
+Ô£ô SATISFIABLE: 10
+Ô£ù UNSATISFIABLE: 0
+
+Taux de succ├¿s: 100.0%
+======================================================================
+PS C:\Users\rog wephyrus\Desktop\Algo\SATProject\Code>

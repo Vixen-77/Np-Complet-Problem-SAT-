@@ -1,0 +1,446 @@
+======================================================================
+R├ëDUCTEUR SAT ÔåÆ 3-SAT + ANALYSE DE COMPLEXIT├ë
+======================================================================
+
+Trouv├® 24 fichiers .cnf
+Dossier de sortie: ../Res/3SAT/
+======================================================================
+
+[1/24] 2bitcomp_5.cnf
+----------------------------------------------------------------------
+Original: 125 vars, 310 clauses
+R├®duit: 475 vars (+350 aux), 660 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/2bitcomp_5.3sat.cnf
+  Ratio variables: 3.80x
+  Ratio clauses: 2.13x
+  Temps: 0.27 ms
+
+[2/24] 2bitmax_6.cnf
+----------------------------------------------------------------------
+Original: 252 vars, 766 clauses
+R├®duit: 1122 vars (+870 aux), 1636 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/2bitmax_6.3sat.cnf
+  Ratio variables: 4.45x
+  Ratio clauses: 2.14x
+  Temps: 0.62 ms
+
+[3/24] generated_sat_006.cnf
+----------------------------------------------------------------------
+Original: 38 vars, 161 clauses
+R├®duit: 38 vars (+0 aux), 161 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_006.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.03 ms
+
+[4/24] generated_sat_009.cnf
+----------------------------------------------------------------------
+Original: 58 vars, 247 clauses
+R├®duit: 58 vars (+0 aux), 247 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_009.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.04 ms
+
+[5/24] generated_sat_010.cnf
+----------------------------------------------------------------------
+Original: 65 vars, 276 clauses
+R├®duit: 65 vars (+0 aux), 276 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_010.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.04 ms
+
+[6/24] generated_sat_012.cnf
+----------------------------------------------------------------------
+Original: 78 vars, 332 clauses
+R├®duit: 78 vars (+0 aux), 332 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_012.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.06 ms
+
+[7/24] generated_sat_013.cnf
+----------------------------------------------------------------------
+Original: 85 vars, 362 clauses
+R├®duit: 85 vars (+0 aux), 362 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_013.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.05 ms
+
+[8/24] generated_sat_014.cnf
+----------------------------------------------------------------------
+Original: 92 vars, 391 clauses
+R├®duit: 92 vars (+0 aux), 391 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_014.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.06 ms
+
+[9/24] generated_sat_015.cnf
+----------------------------------------------------------------------
+Original: 99 vars, 421 clauses
+R├®duit: 99 vars (+0 aux), 421 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_015.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.11 ms
+
+[10/24] generated_sat_016.cnf
+----------------------------------------------------------------------
+Original: 105 vars, 447 clauses
+R├®duit: 105 vars (+0 aux), 447 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_016.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.07 ms
+
+[11/24] generated_sat_017.cnf
+----------------------------------------------------------------------
+Original: 112 vars, 477 clauses
+R├®duit: 112 vars (+0 aux), 477 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_017.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.07 ms
+
+[12/24] generated_sat_018.cnf
+----------------------------------------------------------------------
+Original: 119 vars, 506 clauses
+R├®duit: 119 vars (+0 aux), 506 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_018.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.07 ms
+
+[13/24] generated_sat_019.cnf
+----------------------------------------------------------------------
+Original: 126 vars, 536 clauses
+R├®duit: 126 vars (+0 aux), 536 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_019.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.08 ms
+
+[14/24] generated_sat_020.cnf
+----------------------------------------------------------------------
+Original: 132 vars, 562 clauses
+R├®duit: 132 vars (+0 aux), 562 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_020.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.09 ms
+
+[15/24] generated_sat_021.cnf
+----------------------------------------------------------------------
+Original: 139 vars, 592 clauses
+R├®duit: 139 vars (+0 aux), 592 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_021.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.09 ms
+
+[16/24] generated_sat_022.cnf
+----------------------------------------------------------------------
+Original: 146 vars, 621 clauses
+R├®duit: 146 vars (+0 aux), 621 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_022.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.09 ms
+
+[17/24] generated_sat_023.cnf
+----------------------------------------------------------------------
+Original: 152 vars, 647 clauses
+R├®duit: 152 vars (+0 aux), 647 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_023.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.12 ms
+
+[18/24] generated_sat_024.cnf
+----------------------------------------------------------------------
+Original: 159 vars, 677 clauses
+R├®duit: 159 vars (+0 aux), 677 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_024.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.10 ms
+
+[19/24] generated_sat_025.cnf
+----------------------------------------------------------------------
+Original: 166 vars, 707 clauses
+R├®duit: 166 vars (+0 aux), 707 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_025.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.11 ms
+
+[20/24] generated_sat_026.cnf
+----------------------------------------------------------------------
+Original: 173 vars, 736 clauses
+R├®duit: 173 vars (+0 aux), 736 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_026.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.13 ms
+
+[21/24] generated_sat_027.cnf
+----------------------------------------------------------------------
+Original: 179 vars, 762 clauses
+R├®duit: 179 vars (+0 aux), 762 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_027.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.15 ms
+
+[22/24] generated_sat_028.cnf
+----------------------------------------------------------------------
+Original: 186 vars, 792 clauses
+R├®duit: 186 vars (+0 aux), 792 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_028.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.11 ms
+
+[23/24] generated_sat_029.cnf
+----------------------------------------------------------------------
+Original: 193 vars, 822 clauses
+R├®duit: 193 vars (+0 aux), 822 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_029.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.12 ms
+
+[24/24] generated_sat_030.cnf
+----------------------------------------------------------------------
+Original: 200 vars, 852 clauses
+R├®duit: 200 vars (+0 aux), 852 clauses
+Ô£ô Sauvegard├®: ../Res/3SAT/generated_sat_030.3sat.cnf
+  Ratio variables: 1.00x
+  Ratio clauses: 1.00x
+  Temps: 0.13 ms
+
+======================================================================
+R├ëSUM├ë FINAL
+======================================================================
+Fichiers trait├®s: 24/24
+Statistiques sauvegard├®es: ../Res/3SAT/reduction_stats.csv
+======================================================================
+PS C:\Users\rog wephyrus\Desktop\Algo\SATProject\Code> python -u "c:\Users\rog wephyrus\Desktop\Algo\SATProject\Code\analyserComplexity_sat_3sat.py"
+======================================================================
+ANALYSEUR DE COMPLEXITÉ - RÉDUCTION SAT → 3-SAT
+======================================================================
+✓ Chargé 23 résultats de réduction
+
+Colonnes: ['125', '310', '475', '660', '350', '3.800', '2.129', '0.27']
+
+Aperçu des données:
+   125  310   475   660  350  3.800  2.129  0.27
+0  252  766  1122  1636  870  4.452  2.136  0.62
+1   38  161    38   161    0  1.000  1.000  0.03
+2   58  247    58   247    0  1.000  1.000  0.04
+3   65  276    65   276    0  1.000  1.000  0.04
+4   78  332    78   332    0  1.000  1.000  0.06
+
+======================================================================
+ANALYSE DE COMPLEXITÉ - RÉDUCTION SAT → 3-SAT
+======================================================================
+
+📊 STATISTIQUES GÉNÉRALES:
+  Instances analysées: 23
+Traceback (most recent call last):
+  File "C:\Users\rog wephyrus\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'OriginalVars'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\rog wephyrus\Desktop\Algo\SATProject\Code\analyserComplexity_sat_3sat.py", line 291, in <module>
+    main()
+  File "c:\Users\rog wephyrus\Desktop\Algo\SATProject\Code\analyserComplexity_sat_3sat.py", line 282, in main
+    analyzer.analyze_complexity()
+  File "c:\Users\rog wephyrus\Desktop\Algo\SATProject\Code\analyserComplexity_sat_3sat.py", line 41, in analyze_complexity 
+    print(f"  Variables originales: {self.df['OriginalVars'].min()} à {self.df['OriginalVars'].max()}")
+                                     ~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\rog wephyrus\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\frame.py", line 4113, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rog wephyrus\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\indexes\base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: 'OriginalVars'
+PS C:\Users\rog wephyrus\Desktop\Algo\SATProject\Code> cd "c:\Users\rog wephyrus\Desktop\Algo\SATProject\Code\" ; if ($?) { g++ reductionSAT_3SAT.cpp -o reductionSAT_3SAT } ; if ($?) { .\reductionSAT_3SAT }
+======================================================================
+R├ëDUCTEUR SAT ÔåÆ 3-SAT + ANALYSE DE COMPLEXIT├ë
+======================================================================
+
+Trouv├® 17 fichiers .cnf
+Dossier de sortie: ../Reductions/
+======================================================================
+
+[1/17] 2bitadd_10.cnf
+----------------------------------------------------------------------
+Original: 590 vars, 1422 clauses
+R├®duit: 2404 vars (+1814 aux), 3236 clauses
+Ô£ô Sauvegard├®: ../Reductions/2bitadd_10.3sat.cnf
+  Ratio variables: 4.07x
+  Ratio clauses: 2.28x
+  Temps: 1.36 ms
+
+[2/17] 2bitadd_11.cnf
+----------------------------------------------------------------------
+Original: 649 vars, 1562 clauses
+R├®duit: 2651 vars (+2002 aux), 3564 clauses
+Ô£ô Sauvegard├®: ../Reductions/2bitadd_11.3sat.cnf
+  Ratio variables: 4.08x
+  Ratio clauses: 2.28x
+  Temps: 1.90 ms
+
+[3/17] 2bitadd_12.cnf
+----------------------------------------------------------------------
+Original: 708 vars, 1702 clauses
+R├®duit: 2898 vars (+2190 aux), 3892 clauses
+Ô£ô Sauvegard├®: ../Reductions/2bitadd_12.3sat.cnf
+  Ratio variables: 4.09x
+  Ratio clauses: 2.29x
+  Temps: 1.45 ms
+
+[4/17] 2bitcomp_5.cnf
+----------------------------------------------------------------------
+Original: 125 vars, 310 clauses
+R├®duit: 475 vars (+350 aux), 660 clauses
+Ô£ô Sauvegard├®: ../Reductions/2bitcomp_5.3sat.cnf
+  Ratio variables: 3.80x
+  Ratio clauses: 2.13x
+  Temps: 0.26 ms
+
+[5/17] 2bitmax_6.cnf
+----------------------------------------------------------------------
+Original: 252 vars, 766 clauses
+R├®duit: 1122 vars (+870 aux), 1636 clauses
+Ô£ô Sauvegard├®: ../Reductions/2bitmax_6.3sat.cnf
+  Ratio variables: 4.45x
+  Ratio clauses: 2.14x
+  Temps: 0.62 ms
+
+[6/17] 3bitadd_31.cnf
+----------------------------------------------------------------------
+Original: 8432 vars, 31310 clauses
+R├®duit: 55366 vars (+46934 aux), 78244 clauses
+Ô£ô Sauvegard├®: ../Reductions/3bitadd_31.3sat.cnf
+  Ratio variables: 6.57x
+  Ratio clauses: 2.50x
+  Temps: 31.14 ms
+
+[7/17] 3bitadd_32.cnf
+----------------------------------------------------------------------
+Original: 8704 vars, 32316 clauses
+R├®duit: 57164 vars (+48460 aux), 80776 clauses
+Ô£ô Sauvegard├®: ../Reductions/3bitadd_32.3sat.cnf
+  Ratio variables: 6.57x
+  Ratio clauses: 2.50x
+  Temps: 32.24 ms
+
+[8/17] 3blocks.cnf
+----------------------------------------------------------------------
+Original: 283 vars, 9690 clauses
+R├®duit: 2783 vars (+2500 aux), 12190 clauses
+Ô£ô Sauvegard├®: ../Reductions/3blocks.3sat.cnf
+  Ratio variables: 9.83x
+  Ratio clauses: 1.26x
+  Temps: 2.90 ms
+
+[9/17] 4blocks.cnf
+----------------------------------------------------------------------
+Original: 758 vars, 47820 clauses
+R├®duit: 11034 vars (+10276 aux), 58096 clauses
+Ô£ô Sauvegard├®: ../Reductions/4blocks.3sat.cnf
+  Ratio variables: 14.56x
+  Ratio clauses: 1.21x
+  Temps: 13.01 ms
+
+[10/17] 4blocksb.cnf
+----------------------------------------------------------------------
+Original: 410 vars, 24758 clauses
+R├®duit: 5898 vars (+5488 aux), 30246 clauses
+Ô£ô Sauvegard├®: ../Reductions/4blocksb.3sat.cnf
+  Ratio variables: 14.39x
+  Ratio clauses: 1.22x
+  Temps: 7.41 ms
+
+[11/17] e0ddr2-10-by-5-1.cnf
+----------------------------------------------------------------------
+Original: 19500 vars, 103887 clauses
+R├®duit: 44968 vars (+25468 aux), 129495 clauses
+Ô£ô Sauvegard├®: ../Reductions/e0ddr2-10-by-5-1.3sat.cnf
+  Ratio variables: 2.31x
+  Ratio clauses: 1.25x
+  Temps: 31.43 ms
+
+[12/17] e0ddr2-10-by-5-4.cnf
+----------------------------------------------------------------------
+Original: 19500 vars, 104527 clauses
+R├®duit: 45028 vars (+25528 aux), 130195 clauses
+Ô£ô Sauvegard├®: ../Reductions/e0ddr2-10-by-5-4.3sat.cnf
+  Ratio variables: 2.31x
+  Ratio clauses: 1.25x
+  Temps: 30.56 ms
+
+[13/17] enddr2-10-by-5-1.cnf
+----------------------------------------------------------------------
+Original: 20700 vars, 111567 clauses
+R├®duit: 47968 vars (+27268 aux), 138975 clauses
+Ô£ô Sauvegard├®: ../Reductions/enddr2-10-by-5-1.3sat.cnf
+  Ratio variables: 2.32x
+  Ratio clauses: 1.25x
+  Temps: 34.03 ms
+
+[14/17] enddr2-10-by-5-8.cnf
+----------------------------------------------------------------------
+Original: 21000 vars, 113729 clauses
+R├®duit: 48741 vars (+27741 aux), 141610 clauses
+Ô£ô Sauvegard├®: ../Reductions/enddr2-10-by-5-8.3sat.cnf
+  Ratio variables: 2.32x
+  Ratio clauses: 1.25x
+  Temps: 35.56 ms
+
+[15/17] ewddr2-10-by-5-1.cnf
+----------------------------------------------------------------------
+Original: 21800 vars, 118607 clauses
+R├®duit: 50718 vars (+28918 aux), 147665 clauses
+Ô£ô Sauvegard├®: ../Reductions/ewddr2-10-by-5-1.3sat.cnf
+  Ratio variables: 2.33x
+  Ratio clauses: 1.24x
+  Temps: 36.81 ms
+
+[16/17] ewddr2-10-by-5-8.cnf
+----------------------------------------------------------------------
+Original: 22500 vars, 123329 clauses
+R├®duit: 52491 vars (+29991 aux), 153460 clauses
+Ô£ô Sauvegard├®: ../Reductions/ewddr2-10-by-5-8.3sat.cnf
+  Ratio variables: 2.33x
+  Ratio clauses: 1.24x
+  Temps: 39.07 ms
+
+[17/17] generated_sat_006.cnf
+----------------------------------------------------------------------
+Original: 62 vars, 155 clauses
+R├®duit: 257 vars (+195 aux), 350 clauses
+Ô£ô Sauvegard├®: ../Reductions/generated_sat_006.3sat.cnf
+  Ratio variables: 4.15x
+  Ratio clauses: 2.26x
+  Temps: 0.15 ms
+
+======================================================================
+R├ëSUM├ë FINAL
+======================================================================
+Fichiers trait├®s: 17/17
+Statistiques sauvegard├®es: ../Reductions/reduction_stats.csv
+======================================================================
